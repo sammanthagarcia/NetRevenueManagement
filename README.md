@@ -23,6 +23,17 @@ Files
 - new_product_launch.csv
 - promotion_analysis.csv
 
+## Methodology
+This project followed these steps:
+1. **Data Collection**
+2. **Data Cleaning**
+3. **Data Analysis**: 
+category.
+4. **Visualization**:
+
+5. **Findings**:
+  
+   
 Key Functionalities / Technologies Used: 
 
 Setup Instructions: How to access and use the project.
